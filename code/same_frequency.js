@@ -1,5 +1,5 @@
 /**
- * Write a function called called Same Frequency. Given two positive integers, fine out if the
+ * Write a function called Same Frequency. Given two positive integers, fine out if the
  * two numbers have the same frequency of digits.
  * 
  * Sample Input:
